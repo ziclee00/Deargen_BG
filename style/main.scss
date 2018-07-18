@@ -1,0 +1,31 @@
+@import 'normalize';
+
+
+.container_01{
+	position: absolute;
+	width: 100vw;
+	height: 560px;
+	background : linear-gradient(rgba(31,77,106,1), rgba(23,128,131,1));
+}
+.container_02{
+	position: absolute;
+	width: 100vw;
+	height: 560px;
+}
+svg{
+	position: absolute;
+	width: 100vw;
+	height: 560px;
+}
+.rect{
+	position: absolute;
+	margin-top: 0px;
+	width : 40px;
+}
+
+.shape {
+	fill : red;
+}
+#circle_02{
+	visibility: hidden;
+}
